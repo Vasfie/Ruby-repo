@@ -136,6 +136,20 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/ffi-1.9.10-x64-mingw32/libtest" />
       </SOURCES>
     </library>
+    <library name="ffi (v1.9.14, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/ffi-1.9.14-x64-mingw32/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/ffi-1.9.14-x64-mingw32/gen" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/ffi-1.9.14-x64-mingw32/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/ffi-1.9.14-x64-mingw32/libtest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/ffi-1.9.14-x64-mingw32/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/ffi-1.9.14-x64-mingw32/gen" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/ffi-1.9.14-x64-mingw32/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/ffi-1.9.14-x64-mingw32/libtest" />
+      </SOURCES>
+    </library>
     <library name="io-console (v0.4.3, ruby-2.2.4-p230) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
@@ -362,6 +376,16 @@
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/psych-2.0.17/ext" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/psych-2.0.17/lib" />
+      </SOURCES>
+    </library>
+    <library name="psych (v2.1.0, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/psych-2.1.0/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/psych-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/psych-2.1.0/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/psych-2.1.0/lib" />
       </SOURCES>
     </library>
     <library name="rake (v11.2.2, ruby-2.2.4-p230) [gem]">
