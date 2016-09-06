@@ -80,6 +80,14 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/bundler-1.12.5/man" />
       </SOURCES>
     </library>
+    <library name="capybara (v2.7.1, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/capybara-2.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/capybara-2.7.1/lib" />
+      </SOURCES>
+    </library>
     <library name="capybara (v2.8.1, ruby-2.2.4-p230) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/capybara-2.8.1/lib" />
@@ -88,12 +96,42 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/capybara-2.8.1/lib" />
       </SOURCES>
     </library>
+    <library name="capybara-screenshot (v1.0.11, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/capybara-screenshot-1.0.11/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/capybara-screenshot-1.0.11/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/capybara-screenshot-1.0.11/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/capybara-screenshot-1.0.11/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="childprocess (v0.5.9, ruby-2.2.4-p230) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/childprocess-0.5.9/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/childprocess-0.5.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="cliver (v0.3.2, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/cliver-0.3.2/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/cliver-0.3.2/.githooks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/cliver-0.3.2/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/cliver-0.3.2/.githooks" />
+      </SOURCES>
+    </library>
+    <library name="coderay (v1.1.1, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/coderay-1.1.1/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/coderay-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/coderay-1.1.1/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/coderay-1.1.1/lib" />
       </SOURCES>
     </library>
     <library name="cucumber (v2.4.0, ruby-2.2.4-p230) [gem]">
@@ -380,6 +418,7 @@
     </library>
     <library name="json (v1.8.3, ruby-2.2.4-p230) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/json/1.8.3" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/json-1.8.3/ext" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/json-1.8.3/lib" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/json-1.8.3/data" />
@@ -389,6 +428,7 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/json-1.8.3/diagrams" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/json/1.8.3" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/json-1.8.3/ext" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/json-1.8.3/lib" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/json-1.8.3/data" />
@@ -418,6 +458,26 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/json-2.0.2/tools" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/json-2.0.2/diagrams" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/json-2.0.2/references" />
+      </SOURCES>
+    </library>
+    <library name="launchy (v2.4.3, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/launchy-2.4.3/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/launchy-2.4.3/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/launchy-2.4.3/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/launchy-2.4.3/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/launchy-2.4.3/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/launchy-2.4.3/tasks" />
+      </SOURCES>
+    </library>
+    <library name="method_source (v0.8.2, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/method_source-0.8.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/method_source-0.8.2/lib" />
       </SOURCES>
     </library>
     <library name="mime-types (v3.1, ruby-2.2.4-p230) [gem]">
@@ -498,12 +558,28 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.8-x64-mingw32/suppressions" />
       </SOURCES>
     </library>
+    <library name="phantomjs (v2.1.1.0, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/phantomjs-2.1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/phantomjs-2.1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="pkg-config (v1.1.7, ruby-2.2.4-p230) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/pkg-config-1.1.7/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/pkg-config-1.1.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="poltergeist (v1.9.0, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/poltergeist-1.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/poltergeist-1.9.0/lib" />
       </SOURCES>
     </library>
     <library name="power_assert (v0.2.2, ruby-2.2.4-p230) [gem]">
@@ -522,6 +598,24 @@
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/power_assert-0.3.0/lib" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/power_assert-0.3.0/benchmarks" />
+      </SOURCES>
+    </library>
+    <library name="pry (v0.10.4, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/pry-0.10.4/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/pry-0.10.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/pry-0.10.4/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/pry-0.10.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="pry-nav (v0.2.4, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/pry-nav-0.2.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/pry-nav-0.2.4/lib" />
       </SOURCES>
     </library>
     <library name="psych (v2.0.17, ruby-2.2.4-p230) [gem]">
@@ -596,6 +690,16 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rspec-core-3.5.2/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-core (v3.5.3, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rspec-core-3.5.3/exe" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rspec-core-3.5.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rspec-core-3.5.3/exe" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rspec-core-3.5.3/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-expectations (v3.5.0, ruby-2.2.4-p230) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rspec-expectations-3.5.0/lib" />
@@ -650,6 +754,30 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/selenium-webdriver-2.53.0/lib" />
       </SOURCES>
     </library>
+    <library name="selenium-webdriver (v2.53.4, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/selenium-webdriver-2.53.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/selenium-webdriver-2.53.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="site_prism (v2.9, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/site_prism-2.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/site_prism-2.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="slop (v3.6.0, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/slop-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/slop-3.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="test-unit (v3.0.8, ruby-2.2.4-p230) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/test-unit-3.0.8/lib" />
@@ -676,6 +804,26 @@
       </CLASSES>
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/websocket-1.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="websocket-driver (v0.6.4, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/websocket-driver/0.6.4" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/websocket-driver-0.6.4/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/websocket-driver-0.6.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/websocket-driver/0.6.4" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/websocket-driver-0.6.4/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/websocket-driver-0.6.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="websocket-extensions (v0.1.2, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/websocket-extensions-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/websocket-extensions-0.1.2/lib" />
       </SOURCES>
     </library>
     <library name="xpath (v2.0.0, ruby-2.2.4-p230) [gem]">
